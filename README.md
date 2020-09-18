@@ -1,3 +1,5 @@
-# daily-diary
+# interact-diary
 
-The website where user can write small story diary about everyone around.
+The website where users can write diary about the story between them and everyone around.
+
+[**Proposal**](./proposal.md)
